@@ -1,4 +1,4 @@
-# movies-api
+# movies-api 🍿🎞️
 
 ## Description
 The Movies API is a web service that allows users to access and retrieve information about a wide range of movies, including details about their titles, genres, cast, and more. This API provides a powerful tool for developers and movie enthusiasts to search for and explore movie data from a vast collection. It is designed to simplify the process of accessing movie-related information, making it an ideal solution for building applications, websites, or tools that require movie data. With the Movies API, you can effortlessly access, and display movie details, enhancing the user experience and enabling the creation of exciting movie-related projects.
