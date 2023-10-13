@@ -1,30 +1,39 @@
-# Netflix Clone (netflix-clone) / TV Version
+# movies-api
 
-### Learn how to build this!
+## Description
+The Movies API is a web service that allows users to access and retrieve information about a wide range of movies, including details about their titles, genres, cast, and more. This API provides a powerful tool for developers and movie enthusiasts to search for and explore movie data from a vast collection. It is designed to simplify the process of accessing movie-related information, making it an ideal solution for building applications, websites, or tools that require movie data. With the Movies API, you can effortlessly access, and display movie details, enhancing the user experience and enabling the creation of exciting movie-related projects.
 
-If you'd like a step by step guide on how to build this just **CLICK THE IMAGE BELOW**
+## How to Use the Project
 
-[![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://user-images.githubusercontent.com/108229029/221394839-08dff724-e5a5-44ae-8687-52e3ebd8d8dd.png)](https://www.youtube.com/watch?v=PYz021FzZhg)
+### Cloning the Repository
+If you want to run the project on your own computer, follow the steps below:
 
-Come and check out my YOUTUBE channel for lots more tutorials -> https://www.youtube.com/@johnweeksdev
+1. Create a folder on your computer.
+2. Open the terminal and type the following command to clone the repository:
 
-**LIKE**, **SUBSCRIBE**, and **SMASH THE NOTIFICATION BELL**!!!
+    ```
+   git clone https://github.com/luizavalentini/movies-api.git
+   ```
 
-## App Setup
+### Installing Dependencies
 
-```
-git clone https://github.com/John-Weeks-Dev/netflix-clone.git
+The project has some dependencies that need to be installed. Use the following command to install all dependencies:
+    ```
+   npm install
+    ```
 
-npm i
+### Starting the Project
 
-npm run dev
-```
+To start the project, simply type the following command in the terminal:
+    ```
+   npm start
+    ```
 
-You should be good to go!
+This will start the server and make the API available for use.
 
-# Application Images
 
-<img width="1439" alt="Screenshot 2023-02-04 at 12 33 25" src="https://user-images.githubusercontent.com/108229029/220828412-0f8da047-7130-45b7-93ef-7f3ed6dd03dc.png">
-<img width="1439" alt="Screenshot 2023-02-04 at 12 33 25" src="https://user-images.githubusercontent.com/108229029/220828423-16651149-2595-4288-b982-6449512ee15b.png">
-<img width="1439" alt="Screenshot 2023-02-04 at 12 33 25" src="https://user-images.githubusercontent.com/108229029/220828439-993d5c03-c330-44ef-bc66-8a43c1028b5f.png">
+## Notes
 
+- Ensure you have Node.js and npm installed on your system before starting the project.
+- Verify that all dependencies have been installed correctly by running `npm install`.
+- Feel free to explore and use the API-People project! If you encounter issues or have suggestions for improvement, don't hesitate to contribute or get in touch with me!
